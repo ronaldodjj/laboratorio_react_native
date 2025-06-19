@@ -1,0 +1,140 @@
+import { StyleSheet } from "react-native";
+
+export const stylesCrud = StyleSheet.create({
+    container: {
+        flex: 1,
+        paddingTop: 60,
+        paddingHorizontal: 16,
+        backgroundColor: '#f0f0f0',
+    },
+    title: {
+        fontSize: 24,
+        fontWeight: 'bold',
+        marginBottom: 16,
+        textAlign: 'center',
+        color: '#333',
+    },
+    card: {
+        backgroundColor: 'white',
+        borderRadius: 12,
+        padding: 16,
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 3 },
+        shadowOpacity: 0.1,
+        shadowRadius: 6,
+        elevation: 5,
+    },
+    tableHeader: {
+        flexDirection: 'row',
+        borderBottomWidth: 1,
+        borderColor: '#ccc',
+        paddingBottom: 8,
+        marginBottom: 8,
+    },
+    tableRow: {
+        flexDirection: 'row',
+        paddingVertical: 8,
+        borderBottomWidth: 1,
+        borderColor: '#eee',
+        alignItems: 'center',
+    },
+    cell: {
+        flex: 1,
+        fontSize: 14,
+        color: '#333',
+    },
+    headerCell: {
+        fontWeight: 'bold',
+        color: '#007AFF',
+    },
+    actions: {
+        flexDirection: 'row',
+        justifyContent: 'flex-start',
+        gap: 12,
+    },
+    iconButton: {
+        marginRight: 8,
+    },
+    fab: {
+        position: 'absolute',
+        right: 20,
+        bottom: 30,
+        backgroundColor: '#007AFF',
+        width: 56,
+        height: 56,
+        borderRadius: 28,
+        justifyContent: 'center',
+        alignItems: 'center',
+        elevation: 8,
+    },
+    modalOverlay: {
+        flex: 1,
+        backgroundColor: 'rgba(0,0,0,0.3)',
+        justifyContent: 'center',
+        padding: 20,
+    },
+    modalContent: {
+        backgroundColor: 'white',
+        borderRadius: 12,
+        padding: 20,
+    },
+    modalTitle: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        marginBottom: 16,
+        textAlign: 'center',
+        color: '#333',
+    },
+    input: {
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        padding: 10,
+        marginBottom: 12,
+        fontSize: 14,
+    },
+    modalButtons: {
+        flexDirection: 'row',
+        justifyContent: 'flex-end',
+        gap: 16,
+        marginTop: 8,
+    },
+    cancelButton: {
+        padding: 10,
+    },
+    cancelText: {
+        color: '#999',
+        fontWeight: 'bold',
+    },
+    saveButton: {
+        backgroundColor: '#007AFF',
+        padding: 10,
+        borderRadius: 8,
+    },
+    saveText: {
+        color: '#fff',
+        fontWeight: 'bold',
+    },
+    searchSortContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        marginBottom: 12,
+        gap: 12,
+    },
+    searchInput: {
+        flex: 1,
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        paddingHorizontal: 12,
+        paddingVertical: 8,
+        backgroundColor: '#fff',
+    },
+    sortButton: {
+        padding: 8,
+        backgroundColor: '#e6f0ff',
+        borderRadius: 8,
+    },
+
+})
